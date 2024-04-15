@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/459.1.0.42.84;FBBV/586444246;FBDM/{density=1.7,width=720,height=1495};FBLC/en_Bd;FBRV/0;FBCR/Jio 5g;FBMF/Symphony;FBBD/Symphony;FBPN/com.facebook.katana;FBDV/G10+ Plus;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/Orca-Android;FBAV/346.0.0.45.60;FBPN/com.facebook.orca;FBLC/en_US;FBBV/903969335;FBCR/en_US;FBMF/rockchip;FBBD/rockchip;FBDV/rk30sdk;FBSV/10;FBCA/armeabi v7a:armeabi;FBDM/{density=3.375,width=1080,height=2060};]
