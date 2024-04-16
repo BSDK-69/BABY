@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/459.1.0.42.84;FBBV/586444246;FBDM/{density=1.7,width=720,height=1495};FBLC/en_Bd;FBRV/0;FBCR/Jio 5g;FBMF/Symphony;FBBD/Symphony;FBPN/com.facebook.katana;FBDV/G10+ Plus;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/459.0.0.15.84;FBBV/584971835;FBDM/{density=2.55,width=1080,height=2252};FBLC/en_US;FBRV/0;FBCR/Grameenphone;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/IV2201;FBSV/13;FBOP/1;FBCA/arm64-v8a:;]
