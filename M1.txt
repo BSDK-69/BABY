@@ -1,1 +1,2 @@
-[FBAN/FB4A;FBAV/443.0.0.23.229;FBBV/447626277;FBDM/{density=3.0,width=480,height=1440};FBLC/en_US;FBCR/Airtel;FBMF/GoClever;FBBD/GoClever;FBPN/com.facebook.katana;FBDV/A7GOCLEVER;FBSV/6.1.0;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/154.0.0.33.385;FBBV/87107435;FBDM/{density=2.0,width=720,height=1208};FBLC/pt_PT;FBRV/87107435;FBCR/altice MEO;FBMF/HUAWEI;FBBD/Huawei;FBPN/com.facebook.katana;FBDV/ALE-L21;FBSV/6.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/153.0.0.54.88;FBBV/84570982;FBDM/{density=2.0,width=720,height=1187};FBLC/pt_PT;FBRV/85070460;FBCR/MEO;FBMF/LGE;FBBD/lge;FBPN/com.facebook.katana;FBDV/LG-K350;FBSV/6.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
