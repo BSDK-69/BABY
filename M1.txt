@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/459.1.0.42.84;FBBV/586444251;FBDM/&#123;density=3.0,width=1080,height=2173&#125;;FBLC/en_US;FBRV/588435967;FB_FW/2;FBCR/etisalat;FBMF/HONOR;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/CRT-NX1;FBSV/13;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/443.0.0.23.229;FBBV/447626277;FBDM/{density=3.0,width=480,height=1440};FBLC/en_US;FBCR/Airtel;FBMF/GoClever;FBBD/GoClever;FBPN/com.facebook.katana;FBDV/A7GOCLEVER;FBSV/6.1.0;nullFBCA/armeabi-v7a:armeabi;]
