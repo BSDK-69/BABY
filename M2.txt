@@ -1,1 +1,1 @@
-[FBAN/WhatsAppSMBAndroid;FBAV/2.24.5.76;FBLC/en_GB;FBSV/9;FBBR/oppo6765_19451;FBBD/OPPO;FBBV/240576000;FBCA/arm64-v8a:;FBPN/com.whatsapp.w4b;FBDM/DisplayMetrics{density=2.0, width=720, height=1376, scaledDensity=2.0, xdpi=268.941, ydpi=269.986};]
+[FBAN/Orca-Android;FBAV/294.0.0.20.129;FBPN/com.facebook.orca;FBLC/en_US;FBBV/262756670;FBCR/Vodafone Idea;FBMF/LENOVO;FBBD/Lenovo;FBDV/Lenovo TB-8504F;FBSV/8.1.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.3312501,width=800,height=1216};FB_FW/1;]
