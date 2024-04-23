@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/88.0.0.22.76;FBBV/35266892;FBDM/{density=1.5,width=540,height=960};FBLC/en_US;FBCR/sefat sarker;FBMF/NOVO;FBBD/NOVO;FBPN/com.facebook.katana;FBDV/NOVO 7 PALADIN;FBSV/4.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/252.0.0.50.217;FBBV/127846924;FBDM/{density=2.0,width=1080,height=1920};FBLC/de_DE;FBRV/169670913;FBCR/Willkommen;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G930F;FBSV/8.0.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]
