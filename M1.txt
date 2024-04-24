@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/551.0.0.7506;FBBV/2069849;[FBAN/FB4A;FBAV/289.0.0.40.121;FBBV/246888162;FBDM/{density=1.5,width=480,height=782};FBLC/en_GB;FBRV/248592601;FBCR/banglalink;FBMF/LG Electronics;FBBD/lge;FBPN/com.facebook.katana;FBDV/LG-X230;FBSV/6.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/EMA;FBBV/572287873;FBAV/397.0.0.11.117;FBDV/SM-J111F;FBSV/5.1.1;FBCX/notifications_fetch_profile_pic_uri_graphql;FBDM/{density=1.5}]
