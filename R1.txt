@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/252.0.0.50.217;FBBV/127846924;FBDM/{density=2.0,width=1080,height=1920};FBLC/de_DE;FBRV/169670913;FBCR/Willkommen;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G930F;FBSV/8.0.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]
+[FBAN/EMA;FBBV/572287873;FBAV/397.0.0.11.117;FBDV/SM-J111F;FBSV/5.1.1;FBCX/notifications_fetch_profile_pic_uri_graphql;FBDM/{density=1.5}]
