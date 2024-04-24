@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/458.0.0.38.86;FBBV/584018571;FBDM/{density=1.875,width=720,height=1554};FBLC/en_US;FBRV/0;FBCR/Banglalink;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/V2026;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/427.0.0.31.63;FBBV/502904422;FBDM/{density=2.0,width=720,height=1456};FBLC/en_GB;FBRV/0;FBCR/JIO 4G;FBMF/realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX2185;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
