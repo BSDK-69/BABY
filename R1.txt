@@ -1,1 +1,1 @@
-[FBAN/EMA;FBBV/572287873;FBAV/397.0.0.11.117;FBDV/SM-J111F;FBSV/5.1.1;FBCX/notifications_fetch_profile_pic_uri_graphql;FBDM/{density=1.5}]
+Dalvik/2.1.0 (Linux; U; Android 10; Infinix X688B Build/QP1A.190711.020) [FBAN/EMA;FBBV/577783584;FBAV/399.0.0.16.120;FBDV/Infinix X688B;FBLC/en_US;FBNG/4G;FBMNT/METERED;FBDM/{density=2.0}]
