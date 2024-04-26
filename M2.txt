@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/277.0.0.41.126;FBBV/227128812;FBDM/{density=2.875,width=1080,height=1782};FBLC/en_US;FBRV/229473039;FBCR/Verizon;FBMF/Google;FBBD/google;FBPN/com.facebook.katana;FBDV/Pixel;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/\xC2\xADOrca-Android;FBAV/\xC2\xAD5.0.0.16.1;FBLC/\xC2\xADtr_TR;FBBV/\xC2\xAD2302400;FBCR/\xC2\xADT-Mobile;FBMF/\xC2\xADsamsung;FBBD/\xC2\xADsamsung;FBDV/\xC2\xADGT-I9300;FBSV/\xC2\xAD4.0.4;FBCA/\xC2\xADarmeabi-v7a:armeabi;F\xC2\xADBDM/\xC2\xAD{density=1.0,width=10\xC2\xAD66,height=552};]
