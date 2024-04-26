@@ -1,1 +1,1 @@
-[FBAN/\xC2\xADOrca-Android;FBAV/\xC2\xAD5.0.0.16.1;FBLC/\xC2\xADtr_TR;FBBV/\xC2\xAD2302400;FBCR/\xC2\xADT-Mobile;FBMF/\xC2\xADsamsung;FBBD/\xC2\xADsamsung;FBDV/\xC2\xADGT-I9300;FBSV/\xC2\xAD4.0.4;FBCA/\xC2\xADarmeabi-v7a:armeabi;F\xC2\xADBDM/\xC2\xAD{density=1.0,width=10\xC2\xAD66,height=552};]
+[FBAN/FB4A;FBAV/448.0.0.30.115;FBBV/559520850;FBDM/{density=3.0,width=1080,height=2245};FBLC/en_US;FBRV/561902176;FBCR/airtel;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/IN2013;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]
