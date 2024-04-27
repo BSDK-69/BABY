@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/450.0.0.42.110;FBBV/563890657;FBDM/{density=3.5,width=1440,height=2792};FBLC/en_US;FBRV/0;FBCR/Grameenphone;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G965U1;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/PAAA;FBAV/369.0.0.19.112;FBDM/{density=2.75,width=1080,height=2134};FBLC/en_US;FBBV/387360148;FB_FW/2;FBSN/Android;FBDI/a584af9c-e761-4592-b93c-ad7c1b042316;FBCR/A1 SRB;FBMF/Xiaomi;FBBD/Redmi;FBDV/Redmi Note 8 Pro;FBSV/10;FBCA/arm64-v8a:null;]
